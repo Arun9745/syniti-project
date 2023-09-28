@@ -1,0 +1,253 @@
+html{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    padding: 10px;
+    padding-top: 58px;
+    background-color:transparent;
+}
+
+.hero-image{
+    width: 100%;
+    height: 75%;
+    display: block;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    margin:0 0 45px 0;
+    background-image: linear-gradient(90deg,#5b31ee 0%,#2d74d7 100%);
+}
+ .card-text{
+text-align: left;
+ }
+ .leno{
+    width: 100vw;
+    height: 700px;
+    background-color: #190033;
+ }
+.computer{
+    height:fit-content;
+    width:100%;
+    margin: auto;
+    display: block;
+}
+.think{
+    margin: auto;
+    display: block;
+}
+.btn{
+    border-radius: 30px;
+}
+.lenovo{
+    width: 100vw;
+    height: 650px;
+    background-color:#20356a;
+    position: relative;
+}
+
+.containe{
+    height:90%;
+    width:100%;
+    margin: auto;
+    display: block;
+    overflow:clip;
+}
+.inner{
+    position: absolute;
+    top: 200px;
+    width: 500px;
+    left:50px;
+    height: 400px;
+    width: 500px;
+    background-color:transparent;
+
+}
+.number{
+    font-size: xx-large;
+}
+
+.but{
+    height: 50px;
+    width: 20vw;
+border: none;
+
+}
+#btn{
+    background-color:#5b31ee;
+}
+.main{
+    height: 270px;
+    width: 50vw;
+    background-color: white;
+    border-top: 5px solid #5b31ee;
+    box-shadow: 5px 5px 25px 5px black;
+position: relative;
+}
+.round{
+    width:170px;
+    height:170px;
+    margin-right:15px;
+    margin-top: 20px;
+}
+
+.seven{
+    height:250px;
+    width: 100vw;
+    background-color: #5b31ee;
+    background-image: linear-gradient( 90deg, #8b4bb3 0%, #5b31ee 50%, #2d74d7 100% );
+    position: relative;
+}
+.boxpa{
+    background-color: aliceblue;
+}
+.follow{
+    color: #5b31ee;
+    font-size: large;
+    position: relative;
+}
+.box{
+    border:2px solid white;
+    height: auto;
+    width: 8%;
+    border-radius: 30px;
+    background-color: transparents;
+    position: absolute;
+    left:900px;
+}
+.follows{
+    color: #5b31ee;
+    font-size: large;
+}
+.ender{
+    -ms-text-size-adjust: 0%;
+}
+.follower{
+    color: #5b31ee;
+}
+.img-fluid{
+    width: 10rem !important;
+    height: auto;
+
+}
+.draw{
+    position: relative;
+}
+
+.drawn{
+    width: 15rem !important;
+
+}
+.drawns{
+    width: 15rem !important;
+    position: absolute;
+    left:300px;
+}
+.ref{
+    padding-left: 0rem !important;
+    width: 10rem !important;
+    position: relative;
+
+}
+.bool{
+    position: relative;
+}
+.boolen{
+    /* position: absolute; */
+    padding-left: 80px !important;
+}
+.opti{
+    height: 100px;
+    width: 100px;
+}
+#hero{
+    height: 700px;
+    width: 100%;
+}
+.hero{
+    background-color: #1B0437;
+    height: 20px;
+    position: relative;
+}
+.son{
+    height: 120px;
+    width:150px;
+    align-items: center;
+    margin-right: 100px;
+   padding-bottom: 80px;
+
+}
+.heros{
+    position: absolute;
+    left:200px;
+    right: 20px;
+    top: 17px;
+   }
+.heading{
+    height: 700px;
+    width: 100%;
+    background-color: #1B0437;
+   }
+ .zebro{
+    background-color: #2d075c;
+    position: relative;
+   }
+
+   .concept{
+   max-width: 150px;
+   height: 50px;
+   position: absolute;
+   left:250px;
+   top:20px;
+
+   }
+   .mango{
+    position: absolute;
+    left: 400px;
+    top:10px;
+   }
+   .thinking{
+    text-decoration: none;
+   }
+   .educa{
+    position: absolute;
+    left: 1200px;
+    top:25px;
+   }
+   .jawa{
+    background-color: #110322;
+    position: relative;
+    height: 2px;
+   }
+   .ending{
+    z-index: 100;
+    position: absolute;
+    left: 1100px;
+    top: -10px;
+   }
+   .cow{
+
+    background-image: url("img/hero-home.jpg");
+    height: 60vh;
+    width: 100vw;
+    position: relative;
+}
+.winner{
+    position: absolute;
+    left:300px;
+    top: 100px;
+}
+.container-fluid{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
